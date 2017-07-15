@@ -1,0 +1,20 @@
+
+.character, #AnakinSkywalker, #ObiWanKenobi, #PrincessLeia, #Yoda{
+
+float:left;
+height:150px;
+width:150px;
+background-color:white;
+border:3px solid black;
+text-align: center;
+padding:1% 0 0 0;
+
+}
+
+#enemy,#defender{
+clear:both;
+}
+
+#scoreboarc,#stats{
+	clear:both;
+}
